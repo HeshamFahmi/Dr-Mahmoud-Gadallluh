@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "838797513671",
+    "firebase_url": "https://drmahmoud-gadallah-default-rtdb.firebaseio.com",
+    "project_id": "drmahmoud-gadallah",
+    "storage_bucket": "drmahmoud-gadallah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838797513671:android:bf0da4f13822f571f4ffe2",
+        "android_client_info": {
+          "package_name": "com.alyss.flutter_app5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838797513671-ce3i0sgskkaa68el799c68k1g7vcqt78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvKUSsQtWgstdk3ijojPaw2f6eIpbYpms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838797513671-ce3i0sgskkaa68el799c68k1g7vcqt78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838797513671:android:04be5f3c8a02bc7ff4ffe2",
+        "android_client_info": {
+          "package_name": "com.drMG.DrMahmoudGadallah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838797513671-ce3i0sgskkaa68el799c68k1g7vcqt78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvKUSsQtWgstdk3ijojPaw2f6eIpbYpms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838797513671-ce3i0sgskkaa68el799c68k1g7vcqt78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
